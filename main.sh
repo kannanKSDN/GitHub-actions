@@ -1,1 +1,1 @@
-Hello 'echo "Hello from GitHub Actions!"'
+Hello echo "Hello from GitHub Actions!"
