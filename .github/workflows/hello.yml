@@ -12,3 +12,9 @@ jobs:
       - name: Run main script
         run: bash main.sh
 
+      - name: Upload HTML file
+        uses: actions/upload-artifact@v4
+        with:
+          name: result
+          path: result.html
+
