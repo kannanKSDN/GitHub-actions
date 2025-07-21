@@ -1,1 +1,1 @@
-Hello "testing the github-actions for practice ls -a!"
+Hello 'echo "Hello from GitHub Actions!"'
